@@ -43,6 +43,9 @@ Click the link below to open the shared scenario directly in Make.com:
 
 👉 **[Import Scenario](https://eu1.make.com/public/shared-scenario/412Di24w1xz/integration-you-tube)**
 
+<img width="1875" height="922" alt="image" src="https://github.com/user-attachments/assets/d55fc23a-53c2-41a3-9795-489e7789011a" />
+
+
 ### Step 2 — Connect Your Accounts
 
 You'll need to connect three things inside Make.com:
