@@ -88,7 +88,7 @@ Hit the toggle at the bottom of Make.com to activate the scenario. It will run e
 ## ⚙️ Module Details
 
 ### 1. YouTube — Watch Videos in a Channel
-- Polls your channel every 4 hours
+- Polls your channel every 24 hours
 - Picks up the latest video (limit: 1)
 
 ### 2. Filter — Shorts Only
